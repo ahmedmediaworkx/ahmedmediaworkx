@@ -112,20 +112,6 @@ Found something useful? Have a fix or improvement?
 
 ---
 
-## 📬 Get in Touch
-
-> I'm always open to discussing infra problems, architecture decisions, or swapping war stories about systems that *definitely* should have had monitoring.
-
-<div align="center">
-
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
 <div align="center">
 
 *Built with a SysAdmin mindset — because clouds are just someone else's Linux servers.*
